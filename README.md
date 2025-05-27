@@ -1,10 +1,11 @@
 # NCU Map
 中央大學地標搜尋
 
+## 技術
 JS前端框架：Vue.js
 CSS框架：Bootstrap
 
-分工：
+## 分工：
 ```
 汪宸宇：分類按鈕、點擊顯示、搜尋功能
 
@@ -12,6 +13,17 @@ CSS框架：Bootstrap
 
 楊昊：網頁架構、地圖Canvas顯示
 ```
+## 功能
+* 進入頁面
+![image](https://github.com/user-attachments/assets/56e917db-5f9a-49e3-9266-59dc57e264ca)
+* 地標資料
+![image](https://github.com/user-attachments/assets/4c3050f3-b556-49fd-a909-36a106a1fdc9)
+* 分類顯示
+![image](https://github.com/user-attachments/assets/dd46c166-cc9f-4b36-8ae0-a2216bf11644)
+* 搜尋地標
+![image](https://github.com/user-attachments/assets/ebe61e18-a8f9-4756-b74b-bd70edecace9)
+
+
 
 ## DATA格式
 
